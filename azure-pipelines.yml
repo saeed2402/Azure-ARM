@@ -20,5 +20,5 @@ steps:
     location: 'Australia Southeast'
     templateLocation: 'Linked artifact'
     csmFile: 'azuredeploy.json'
-    deploymentMode: 'Incremental'
+    deploymentMode: 'Complete'
     deploymentName: 'DeployAzureARMTemplate-01'
